@@ -9,7 +9,6 @@ git clone <repo-url>
 ```
 
 ```bash
-cd Flask-Website_2022
 pip install -r requirements.txt
 ```
 
