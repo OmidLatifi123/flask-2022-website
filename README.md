@@ -1,3 +1,6 @@
+#Hello!
+I created this website to allow users to create an account, write public notes, and search the notes posted by other users. 
+
 # Flask Web App 
 
 ## Setup & Installtion
