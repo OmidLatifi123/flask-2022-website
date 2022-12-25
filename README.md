@@ -1,5 +1,5 @@
 # Hello!
-I created this website to allow users to create an account, write public notes, and search the notes posted by other users. 
+Omid Latifi and Mark Kogan created this website to allow users to create an account, write public notes, and search the notes posted by other users. 
 
 # Flask Web App 
 
